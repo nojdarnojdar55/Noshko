@@ -1,2 +1,0 @@
-# Noshko
-Facbook
